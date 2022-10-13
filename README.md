@@ -37,7 +37,8 @@ Hope you liked my profile and find useful stuff in it :)</p>
 <br>
 
 <div>
-  
+  <p align="center"><b>Visitors Count</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{He1senb0rg}/count.svg" /></p>
 </div>
   
 <br>
