@@ -18,7 +18,7 @@ Hope you liked my profile and find useful stuff in it :)</p>
   
   <br>
   
-  ![snake gif](https://github.com/He1senb0rg/He1senb0rg/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
