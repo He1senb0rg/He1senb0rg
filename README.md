@@ -14,7 +14,7 @@ Hope you liked my profile and find useful stuff in it :)</p>
 
 <div align="center">
 
-  ![Contribution](https://activity-graph.herokuapp.com/graph?username=He1senb0rg&theme=rogue&hide_border=true&area=true)
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=He1senb0rg)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
   <br>
   
