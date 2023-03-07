@@ -1,6 +1,6 @@
 ### Hello there 👋
 <p>My name is André Santos, aka Heisenbørg, I'm 17 years old and I'm currently an IT student at Gustave Eiffel Amadora Centro!<br>
-I've mainly programmed in C#, Java, PHP and JavaScript, and right now I'm learning ASP.NET and OOP in Java!<br>
+I've mainly programmed in C#, Java, PHP and JavaScript, and right now I'm learning Laravel!<br>
 Hope you liked my profile and find useful stuff in it :)</p>
 
 <br>
