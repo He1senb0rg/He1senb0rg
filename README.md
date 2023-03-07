@@ -13,10 +13,6 @@ Hope you liked my profile and find useful stuff in it :)</p>
 <br>
 
 <div align="center">
-
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=He1senb0rg)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
-  <br>
   
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
   
