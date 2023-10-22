@@ -14,7 +14,7 @@ Hope you liked my profile and find useful stuff in it :)</p>
 
 <div align="center">
   
-![snake gif](https://github.com/He1senb0rg/He1senb0rg/blob/output/github-contribution-grid-snake-dark.gif)
+![snake gif](https://github.com/He1senb0rg/He1senb0rg/blob/output/github-contribution-grid-snake-dark.svg)
   
 </div>
 
