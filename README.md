@@ -23,7 +23,6 @@ Hope you liked my profile and find useful stuff in it :)</p>
 ##
 
 <div> 
-  <a href="https://www.instagram.com/andre_sant0s_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://www.youtube.com/channel/UCqqT_pxdS7b3Jv9CWTbinYA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <img align="right" alt="Vaca-Polaca" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/761608032626933780/1030217871097352192/d5c58141a1cd5938fe50f96f7bd9b17a.gif">
 </div>
