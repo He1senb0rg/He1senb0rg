@@ -36,7 +36,7 @@ I'm an enthusiastic Junior Full-Stack Web Developer that loves to work with **Te
 [![Photoshop](https://skillicons.dev/icons?i=photoshop)](https://www.adobe.com/products/photoshop.html)
 [![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
 [![Postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)
-[![Ubuntu](https://skillicons.dev/icons?i=ubuntu)](https://ubuntu.com/)
+[![Arch](https://skillicons.dev/icons?i=arch)](https://archlinux.org/)
 
 ## ⚡️ Where to find me
 
